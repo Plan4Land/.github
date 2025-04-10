@@ -55,5 +55,9 @@
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"  style="margin-left: 35px;"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">  
 
+<br/>
+
 ><h3 style="border-bottom: none;">개발 환경</h3>
+
+<img src="../img/plan4land_env.png">
 
