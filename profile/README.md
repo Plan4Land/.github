@@ -39,7 +39,7 @@
 
 ><h3 style="border-bottom: none;">사용 기술</h3>
 
-- <h3 style="border-bottom: none; font-size: 16px;">Frontend</h3>
+- <h3 style="border-bottom: none; font-size: 15px;">Frontend</h3>
 
 &emsp;&emsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
