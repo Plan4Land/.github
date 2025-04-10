@@ -41,7 +41,7 @@
 
 - <h3 style="border-bottom: none;">Frontend</h3>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"  style="margin-left: 35px;"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"  style="margin-left: 50px;"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 - <h3 style="border-bottom: none;">Backend</h3>
 
@@ -59,5 +59,5 @@
 
 ><h3 style="border-bottom: none;">개발 환경</h3>
 
-<img src="../img/plan4land_env.png">
+<img src="../img/plan4land_env.png" style="width: 85%;">
 
