@@ -1,1 +1,1 @@
-![Plan4Land Logo](../img/plan3landlogo.png) **Plan4Land**
+![Plan4Land Logo](../img/plan4landlogo.png) **Plan4Land**
