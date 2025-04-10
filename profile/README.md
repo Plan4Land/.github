@@ -19,11 +19,11 @@
 
 - [Plan4Land 홈페이지 바로가기](https://plan4land.store)
 
-- [Plan4Land **Front** Git Code 바로가기](https://github.com/Plan4Land/P4L_Front)
+- [**Front** Git Code 바로가기](https://github.com/Plan4Land/P4L_Front)
 
-- [Plan4Land **Back** Git Code 바로가기](https://github.com/Plan4Land/P4L_Back)
+- [**Back** Git Code 바로가기](https://github.com/Plan4Land/P4L_Back)
 
-- [Plan4Land **Python API** Git Code 바로가기](https://github.com/Plan4Land/P4L_API)
+- [**Python API** Git Code 바로가기](https://github.com/Plan4Land/P4L_API)
 
-- [Plan4Land **APP** Git Code 바로가기](https://github.com/Plan4Land/P4L_App)
+- [**APP** Git Code 바로가기](https://github.com/Plan4Land/P4L_App)
 
