@@ -2,9 +2,9 @@
     <img src="../img/plan4land.png"  />
 </p>
 
-# Plan4Land
+# <img src="../img/plan4landlogo.png" style="width: 30px; "/> Plan4Land
 
-<h3 style="border-bottom: none;"><img src="../img/plan4landlogo.png" style="width: 30px; "/> 국내 관광지 검색 및 여행 플래닝 작성 플랫폼</h3>
+<h3 style="border-bottom: none;"> 국내 관광지 검색 및 여행 플래닝 작성 플랫폼</h3>
 
 - 관광지, 맛집, 숙소 정보를 한 곳에서 검색 가능하도록 지원
 
