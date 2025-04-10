@@ -2,7 +2,7 @@
     <img src="../img/plan4land.png"  />
 </p>
 
-# <img src="../img/plan4landlogo.png" style="width: 30px; "/> Plan4Land
+# <img src="../img/plan4landlogo.png" style="width: 35px; "/> Plan4Land
 
 <h3 style="border-bottom: none;"> 국내 관광지 검색 및 여행 플래닝 작성 플랫폼</h3>
 
