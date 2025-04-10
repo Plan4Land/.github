@@ -39,7 +39,7 @@
 
 ><h3 style="border-bottom: none;">사용 기술</h3>
 
-- <h3 style="border-bottom: none; font-size: 15px;">Frontend</h3>
+- <h3 style="border-bottom: none;">Frontend</h3>
 
 &emsp;&emsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
@@ -61,3 +61,36 @@
 
 <img src="../img/plan4land_env.png" style="width: 85%;">
 
+<br/>
+
+## ✨ 주요 기능
+
+><h3 style="border-bottom: none;">관광지</h3>
+
+- <h4>지역,카테고리별 조회 및 키워드 검색 기능 제공</h4>
+
+- <h4>관광지 상세 정보 제공 및 카카오 지도를 통한 위치 확인</h4>
+
+- <h4>선택한 관광지 기준 주변 관광지 10개 추천</h4>
+
+- <h4>관광지 북마크 기능으로 관심 장소 관리 가능</h4>
+
+><h3 style="border-bottom: none;">플래닝</h3>
+
+- <h4>여행 일정을 날짜별로 계획할 수 있는 플래너 기능</h4>
+
+- <h4>다른 유저 초대를 통해 실시간 채팅 및 공동 플래닝 가능</h4>
+
+- <h4>날짜별로 카카오맵 API를 활용한 장소 검색을 통해 추가하여 세부 계획 수립</h4>
+
+- <h4>카카오 지도에서 계획된 장소들의 위치를 한눈에 확인</h4>
+
+- <h4>플래닝 북마크 기느으로 자주 쓰는 계획 관리 가능</h4>
+
+- <h4>플래닝 공개/비공개 설정으로 보안 관리 가능</h4>
+
+><h3 style="border-bottom: none;">교통</h3>
+
+- <h4>열차(KTX, SRT 등) 실시간 운행 정보 조회 (특정 날짜 기준)</h4>
+
+- <h4>고속버스 실시간 운행 정보 조회 (특정 날짜 기준)</h4>
