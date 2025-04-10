@@ -35,9 +35,9 @@
 
 <br/> -->
 
-## 사용 기술 및 개발 환경
+## 🛠️ 사용 기술 및 개발 환경
 
-<h3 style="border-bottom: none;">사용 기술</h3>
+><h3 style="border-bottom: none;">사용 기술</h3>
 
 <h3 style="border-bottom: none;">Frontend</h3>
 
